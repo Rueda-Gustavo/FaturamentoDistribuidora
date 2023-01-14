@@ -1,0 +1,15 @@
+C:\Users\Gustavo\source\repos\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net7.0\FaturamentoDistribuidora.csproj.AssemblyReference.cache
+C:\Users\Gustavo\source\repos\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net7.0\FaturamentoDistribuidora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\source\repos\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net7.0\FaturamentoDistribuidora.AssemblyInfoInputs.cache
+C:\Users\Gustavo\source\repos\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net7.0\FaturamentoDistribuidora.AssemblyInfo.cs
+C:\Users\Gustavo\source\repos\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net7.0\FaturamentoDistribuidora.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\FaturamentoDistribuidora\FaturamentoDistribuidora\bin\Debug\net7.0\FaturamentoDistribuidora.exe
+C:\Users\Gustavo\source\repos\FaturamentoDistribuidora\FaturamentoDistribuidora\bin\Debug\net7.0\FaturamentoDistribuidora.deps.json
+C:\Users\Gustavo\source\repos\FaturamentoDistribuidora\FaturamentoDistribuidora\bin\Debug\net7.0\FaturamentoDistribuidora.runtimeconfig.json
+C:\Users\Gustavo\source\repos\FaturamentoDistribuidora\FaturamentoDistribuidora\bin\Debug\net7.0\FaturamentoDistribuidora.dll
+C:\Users\Gustavo\source\repos\FaturamentoDistribuidora\FaturamentoDistribuidora\bin\Debug\net7.0\FaturamentoDistribuidora.pdb
+C:\Users\Gustavo\source\repos\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net7.0\FaturamentoDistribuidora.dll
+C:\Users\Gustavo\source\repos\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net7.0\refint\FaturamentoDistribuidora.dll
+C:\Users\Gustavo\source\repos\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net7.0\FaturamentoDistribuidora.pdb
+C:\Users\Gustavo\source\repos\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net7.0\FaturamentoDistribuidora.genruntimeconfig.cache
+C:\Users\Gustavo\source\repos\FaturamentoDistribuidora\FaturamentoDistribuidora\obj\Debug\net7.0\ref\FaturamentoDistribuidora.dll
